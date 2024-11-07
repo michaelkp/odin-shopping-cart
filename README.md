@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# odin-shopping-cart
-=======
-# React + Vite
+Odin shopping cart project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> aa6130e (initial commit)
+A shopping cart project made for the Odin project course.
